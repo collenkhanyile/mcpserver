@@ -27,6 +27,10 @@ uv add "mcp[cli]"
 Run Your Server
 python network-assistant.py
 
+!!!!how to connect MCP with AI Model
+##################
+https://github.com/upa/mcp-netmiko-server
+##################
 🧪 Test with Claude for Desktop
 Claude for Desktop is currently only available on macOS and Windows.
 
